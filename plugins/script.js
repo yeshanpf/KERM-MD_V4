@@ -27,7 +27,7 @@ let repo =`
 *|* *KG TECH🇨🇲*
 
 > *KERM_MD-V4 REPO:*
-*|* *https://github.com/Kgtech-cmr/KERM_MD-V4*
+*|* *https://github.com/Kgtech-cmr/KERM-MD_V4*
 
 > *SUPPORT GROUP:*
 *|* *https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45*
