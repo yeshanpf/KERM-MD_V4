@@ -18,23 +18,23 @@
 
 <p align="center">
 <a href="https://github.com/Kgtech-cmr/"><img title="Followers" src="https://img.shields.io/github/followers/Kgtech-cmr?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM_MD-V4?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM_MD-V4?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/"><img title="Size" src="https://img.shields.io/github/repo-size/Kgtech-cmr/KERM_MD-V4?style=flat-square&color=blue"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Kgtech-cmr/KERM-MD_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM-MD_V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM-MD_V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM-MD_V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM-MD_V4/"><img title="Size" src="https://img.shields.io/github/repo-size/Kgtech-cmr/KERM-MD_V4?style=flat-square&color=blue"></a>
+<a href="https://github.com/Kgtech-cmr/KERM-MD_V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>KERM_MD-V4</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD_V4/count.svg" /><br>KERM-MD_V4</div>
 
 ------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![FORK KERM_MD-V4](https://img.shields.io/badge/FORK%20-KERM%20MD%20V4-white)](https://github.com/Kgtech-cmr/KERM_MD-V4/fork)
+[![FORK KERM_MD-V4](https://img.shields.io/badge/FORK%20-KERM%20MD%20V4-white)](https://github.com/Kgtech-cmr/KERM-MD_V4/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
