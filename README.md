@@ -91,7 +91,7 @@
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Kgtech-cmr/KERM_MD-V4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Kgtech-cmr/KERM-MD_V4)
 
 ----------
 
@@ -109,7 +109,7 @@
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/Kgtech-cmr/KERM_MD-V4"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/Kgtech-cmr/KERM-MD_V4"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
