@@ -1,2 +1,2 @@
 # KERM-MD_V4
-Le meilleur bot WhatsApp de l’année multi device developer par KgTech. 
+The best WhatsApp bot of the year multi device developer by KgTech.
