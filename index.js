@@ -100,7 +100,7 @@ let up = `*╭──────────────●●►*
 *│✫➠ - 📂REPOSITORY NAME:* *KERM_MD-V4*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
 *│✫➠ - 🛡️OWNER:* *KG TECH🇨🇲*
-*│✫➠ - 🌐URL:* *https://github.com/Kgtech-cmr/KERM_MD-V4*
+*│✫➠ - 🌐URL:* *https://github.com/Kgtech-cmr/KERM-MD_V4*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
